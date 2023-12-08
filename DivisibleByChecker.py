@@ -1,6 +1,3 @@
-import random
-import math
-
 Name = input("Whats your name?: ")
 y = 1
 x = 1
